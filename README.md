@@ -8,3 +8,4 @@ Clase de Git </br>
 
 - En esta clase hemos aprendido a hacer un script
 - Hemos hecho ejercicios
+- Te estoy modificando el readme en la main
